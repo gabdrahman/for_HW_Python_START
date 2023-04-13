@@ -17,7 +17,7 @@
 # b2 = b // 10 % 10
 # b3 = b // 100
 # print(a1 + a2 + a3, b1 + b2 + b3)
-# if (a1 + a2 + a3) == (b1 + b2 + b3):
+# if a1 + a2 + a3 == b1 + b2 + b3:
 #     print(f'{n}  -> Да')
 # else:
 #     print('Нет' )
